@@ -1,0 +1,14 @@
+/build/
+/dist/
+*.o
+*.dll
+*.exe
+*.zip
+*.log
+*.pyc
+__pycache__/
+*:Zone.Identifier
+.env
+.env.*
+.DS_Store
+Thumbs.db
